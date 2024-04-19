@@ -14,7 +14,7 @@ Escribe o pega el texto que deseas convertir en audio en el archivo "libro.txt".
 Ejecuta el script. Esto generará un archivo de audio llamado "audio-libro.mp3" con la lectura del texto.
 ¡Disfruta generando archivos de audio a partir de tus textos favoritos!
 
-Esta descripción proporciona una visión general del propósito y la funcionalidad del proyecto, así como instrucciones claras sobre cómo usarlo. ¡Espero que te sea útil!
+Esta descripción proporciona una visión general del propósito y la funcionalidad del proyecto, así como instrucciones claras sobre cómo usarlo. ¡Espero que te sea útil! 
 
 
 
